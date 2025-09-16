@@ -1,4 +1,6 @@
-# Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+# `EX 01 Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+# DEVELOPED BY: CHARU NETHRA R
+# REGISTER NUMBER: 212223230035
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
@@ -24,17 +26,14 @@ Create brighter and darker images by adding and subtracting the matrix from the 
 Display the original, brighter, and darker images.
 
 ### Step 4:
-Modify the image contrast by creating two higher contrast images using scaling factors of 1.1 and 1.2 (without overflow fix).  
+Modify the image ; contrast by creating two higher contrast images using scaling factors of 1.1 and 1.2 (without overflow fix).  
 Display the original, lower contrast, and higher contrast images.
 
 ### Step 5:
 Split the image (boy.jpg) into B, G, R components and display the channels
 
-## Program Developed By:
-- **Name:** CHARU NETHRA R 
-- **Register Number:** 212223230035
+## Program:
 
-  ### Ex. No. 01
 
 #### 1. Read the image ('Eagle_in_Flight.jpg') using OpenCV imread() as a grayscale image.
 ```python
